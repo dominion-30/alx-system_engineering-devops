@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "enter mode of script hello"
-read num
 chmod 664 olleh
-chmod $num hello 
+chmod 664 hello 
