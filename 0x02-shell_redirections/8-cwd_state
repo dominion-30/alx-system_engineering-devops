@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "new file" >ls_cwd_content
+echo "creating of file" >ls_cwd_content
